@@ -1,0 +1,16 @@
+drv2605.cpp:41:1:DRV2605::DRV2605()	16	static
+drv2605.cpp:54:6:bool DRV2605::begin(I2C_HandleTypeDef*)	16	static
+drv2605.cpp:65:6:bool DRV2605::init()	24	static
+drv2605.cpp:105:6:void DRV2605::setWaveform(uint8_t, uint8_t)	16	static
+drv2605.cpp:117:6:void DRV2605::selectLibrary(uint8_t)	16	static
+drv2605.cpp:126:6:void DRV2605::go()	16	static
+drv2605.cpp:133:6:void DRV2605::stop()	16	static
+drv2605.cpp:150:6:void DRV2605::setMode(uint8_t)	16	static
+drv2605.cpp:161:6:void DRV2605::setRealtimeValue(uint8_t)	16	static
+drv2605.cpp:172:9:uint8_t DRV2605::readRegister8(uint8_t)	32	static
+drv2605.cpp:191:6:void DRV2605::writeRegister8(uint8_t, uint8_t)	24	static
+drv2605.cpp:202:6:void DRV2605::setTask(void**)	16	static
+drv2605.cpp:206:6:void DRV2605::setTXFlag()	16	static
+drv2605.cpp:210:6:void DRV2605::setRXFlag()	16	static
+drv2605.cpp:221:6:void DRV2605::useERM()	16	static
+drv2605.cpp:231:6:void DRV2605::useLRA()	16	static
